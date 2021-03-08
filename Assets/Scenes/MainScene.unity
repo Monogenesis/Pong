@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxX: 12
-  maxZ: 8
+  maxZ: 5.99
   playField: {fileID: 1169447986}
   controller: {fileID: 42687924}
 --- !u!54 &954622048
@@ -1578,7 +1578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5abf9d8dab9acb446af1127fe1d86da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7.75
+  speed: 8
   playField: {fileID: 1169447986}
   ball: {fileID: 954622042}
 --- !u!1 &1597493877
